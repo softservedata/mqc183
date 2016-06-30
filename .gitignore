@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.~*
+*.bak
+
+# Pictures
+*.bmp
+
+# Java
+*.class
+*.jar
+*.war
+
+# Ignore folders
+/bin/
+/target/
+
