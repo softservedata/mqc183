@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello from Yaroslav
-=======
-Hello from Yaroslav
->>>>>>> ff6a2071aaccc384ba4b21d2f5ec57c78d8ce2fe
